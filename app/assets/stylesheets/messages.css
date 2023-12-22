@@ -8,7 +8,7 @@
   background-color: #253141;
 }
 
-.side_bar-header{
+.side-bar-header{
   height: 100px;
   padding: 0px 20px;
   background-color: #253141;
@@ -16,7 +16,7 @@
   justify-content: space-between;
   align-items: center;
 }
-.side_name a{
+.side-name a{
   font-size: 16px;
   color: #fafafa;
   text-decoration: none;
@@ -56,7 +56,7 @@
   display: flex;
   justify-content: space-between;
 }
-.header-title{
+.left-title{
   color: #333;
   font-size: 24px;
   margin-top: 36px;
@@ -64,7 +64,7 @@
 .header-button{
   margin-top: 40px;
 }
-.header-button{
+.header-button a{
   text-decoration: none;
   border: 1px solid darkred;
   color: darkred;
